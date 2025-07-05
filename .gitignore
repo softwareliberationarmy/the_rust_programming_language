@@ -485,3 +485,6 @@ $RECYCLE.BIN/
 
 # Rust build artifacts
 target/
+*.exe
+*.pdb
+*.dll
