@@ -48,3 +48,10 @@ NOTE: Cargo project names cannot start with a number
 
 * 4 bytes long, represents a Unicode scalar value
 * accented characters, emoji, asian characters can all be stored in character
+
+## Functions, Statements and Expressions
+
+* a function call is an expression
+* a scope block created with curly braces is an expression
+* an assignment is a statement
+* statements end in a semicolon, expressions do not
